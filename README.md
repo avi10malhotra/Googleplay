@@ -1,2 +1,2 @@
 # Googleplay
-Scrappes, analyzes, and visualizes data (app ratings) from the Google Play Store.
+Please refer to the [Python Notebook](./notebook.ipynb) for more information!
